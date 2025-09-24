@@ -1,0 +1,6 @@
+RewriteEngine On    # Turn on the rewriting engine
+
+
+RewriteRule ^fruit/list/$ getAllFruits.php?$ [NC,QSA]
+RewriteRule ^list/$ fruitListPage.php?$ [NC,QSA]
+RewriteRule ^fruit/([0-9a-zA-Z_-]*)$ getSingleFruit.php?id=$1 [NC,L]
