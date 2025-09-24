@@ -17,6 +17,6 @@ The main goal of the system is to provide a centralized platform for the fruit s
 - 📊 **Dashboard** – Generate statistical insights on customers, inventory, and sales  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, JQuery, AJAX, JSON
+- **Frontend:** HTML, CSS, JavaScript, jQuery, AJAX, JSON
 - **Backend:** PHP  
 - **Database:** MySQL  
